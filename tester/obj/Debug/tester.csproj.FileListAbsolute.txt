@@ -1,0 +1,9 @@
+C:\jonathan\University\ComputerScience2\Segundo Semestre\Estructuras de Datos y Algoritmos II\nuevoProyecto\PROYECTO_EDAII_2014_2015\Finder\tester\bin\Debug\tester.exe.config
+C:\jonathan\University\ComputerScience2\Segundo Semestre\Estructuras de Datos y Algoritmos II\nuevoProyecto\PROYECTO_EDAII_2014_2015\Finder\tester\obj\Debug\tester.csprojResolveAssemblyReference.cache
+C:\jonathan\University\ComputerScience2\Segundo Semestre\Estructuras de Datos y Algoritmos II\nuevoProyecto\PROYECTO_EDAII_2014_2015\Finder\tester\bin\Debug\tester.exe
+C:\jonathan\University\ComputerScience2\Segundo Semestre\Estructuras de Datos y Algoritmos II\nuevoProyecto\PROYECTO_EDAII_2014_2015\Finder\tester\bin\Debug\tester.pdb
+C:\jonathan\University\ComputerScience2\Segundo Semestre\Estructuras de Datos y Algoritmos II\nuevoProyecto\PROYECTO_EDAII_2014_2015\Finder\tester\bin\Debug\EDA_PROJECT_1415.dll
+C:\jonathan\University\ComputerScience2\Segundo Semestre\Estructuras de Datos y Algoritmos II\nuevoProyecto\PROYECTO_EDAII_2014_2015\Finder\tester\bin\Debug\MyFinder.dll
+C:\jonathan\University\ComputerScience2\Segundo Semestre\Estructuras de Datos y Algoritmos II\nuevoProyecto\PROYECTO_EDAII_2014_2015\Finder\tester\bin\Debug\MyFinder.pdb
+C:\jonathan\University\ComputerScience2\Segundo Semestre\Estructuras de Datos y Algoritmos II\nuevoProyecto\PROYECTO_EDAII_2014_2015\Finder\tester\obj\Debug\tester.exe
+C:\jonathan\University\ComputerScience2\Segundo Semestre\Estructuras de Datos y Algoritmos II\nuevoProyecto\PROYECTO_EDAII_2014_2015\Finder\tester\obj\Debug\tester.pdb

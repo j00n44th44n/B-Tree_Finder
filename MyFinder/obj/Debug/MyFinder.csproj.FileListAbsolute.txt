@@ -1,0 +1,12 @@
+D:\My Data\@UH\Estructura de Datos y Algoritmos\2014-2015\Segundo Semestre\PROYECTO\PROYECTO_EDAII_2014_2015\Finder\MyFinder\bin\Debug\MyFinder.dll
+D:\My Data\@UH\Estructura de Datos y Algoritmos\2014-2015\Segundo Semestre\PROYECTO\PROYECTO_EDAII_2014_2015\Finder\MyFinder\bin\Debug\MyFinder.pdb
+D:\My Data\@UH\Estructura de Datos y Algoritmos\2014-2015\Segundo Semestre\PROYECTO\PROYECTO_EDAII_2014_2015\Finder\MyFinder\bin\Debug\EDA_PROJECT_1415.dll
+D:\My Data\@UH\Estructura de Datos y Algoritmos\2014-2015\Segundo Semestre\PROYECTO\PROYECTO_EDAII_2014_2015\Finder\MyFinder\obj\Debug\MyFinder.dll
+D:\My Data\@UH\Estructura de Datos y Algoritmos\2014-2015\Segundo Semestre\PROYECTO\PROYECTO_EDAII_2014_2015\Finder\MyFinder\obj\Debug\MyFinder.pdb
+D:\My Data\@UH\Estructura de Datos y Algoritmos\2014-2015\Segundo Semestre\PROYECTO\PROYECTO_EDAII_2014_2015\Finder\MyFinder\obj\Debug\MyFinder.csprojResolveAssemblyReference.cache
+C:\jonathan\University\ComputerScience2\Segundo Semestre\Estructuras de Datos y Algoritmos II\nuevoProyecto\PROYECTO_EDAII_2014_2015\Finder\MyFinder\obj\Debug\MyFinder.csprojResolveAssemblyReference.cache
+C:\jonathan\University\ComputerScience2\Segundo Semestre\Estructuras de Datos y Algoritmos II\nuevoProyecto\PROYECTO_EDAII_2014_2015\Finder\MyFinder\obj\Debug\MyFinder.dll
+C:\jonathan\University\ComputerScience2\Segundo Semestre\Estructuras de Datos y Algoritmos II\nuevoProyecto\PROYECTO_EDAII_2014_2015\Finder\MyFinder\bin\Debug\MyFinder.dll
+C:\jonathan\University\ComputerScience2\Segundo Semestre\Estructuras de Datos y Algoritmos II\nuevoProyecto\PROYECTO_EDAII_2014_2015\Finder\MyFinder\bin\Debug\MyFinder.pdb
+C:\jonathan\University\ComputerScience2\Segundo Semestre\Estructuras de Datos y Algoritmos II\nuevoProyecto\PROYECTO_EDAII_2014_2015\Finder\MyFinder\bin\Debug\EDA_PROJECT_1415.dll
+C:\jonathan\University\ComputerScience2\Segundo Semestre\Estructuras de Datos y Algoritmos II\nuevoProyecto\PROYECTO_EDAII_2014_2015\Finder\MyFinder\obj\Debug\MyFinder.pdb
